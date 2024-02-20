@@ -1,6 +1,6 @@
 # Cookbook Name:: openstack-application-catalog
 # Recipe:: server
-#
+# Generic Password 
 # Copyright (c) 2016 Mirantis Inc, All Rights Reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
